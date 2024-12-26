@@ -1,0 +1,12 @@
+/Users/X735542/Downloads/TeaProject/Library
+/Users/X735542/Downloads/TeaProject/appsettings.Development.json
+/Users/X735542/Downloads/TeaProject/appsettings.json
+/Users/X735542/Downloads/TeaProject/Library.dll
+/Users/X735542/Downloads/TeaProject/Library.runtimeconfig.json
+/Users/X735542/Downloads/TeaProject/Library.pdb
+/Users/X735542/Downloads/TeaProject/Microsoft.EntityFrameworkCore.dll
+/Users/X735542/Downloads/TeaProject/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/X735542/Downloads/TeaProject/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/X735542/Downloads/TeaProject/Npgsql.dll
+/Users/X735542/Downloads/TeaProject/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/X735542/Downloads/TeaProject/Library.deps.json

@@ -1,0 +1,12 @@
+/Users/X735542/Projects/DevopsPractice/Library/obj/Release/net7.0/PubTmp/Out/Library
+/Users/X735542/Projects/DevopsPractice/Library/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/X735542/Projects/DevopsPractice/Library/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/X735542/Projects/DevopsPractice/Library/obj/Release/net7.0/PubTmp/Out/Library.dll
+/Users/X735542/Projects/DevopsPractice/Library/obj/Release/net7.0/PubTmp/Out/Library.runtimeconfig.json
+/Users/X735542/Projects/DevopsPractice/Library/obj/Release/net7.0/PubTmp/Out/Library.pdb
+/Users/X735542/Projects/DevopsPractice/Library/obj/Release/net7.0/PubTmp/Out/Microsoft.EntityFrameworkCore.dll
+/Users/X735542/Projects/DevopsPractice/Library/obj/Release/net7.0/PubTmp/Out/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/X735542/Projects/DevopsPractice/Library/obj/Release/net7.0/PubTmp/Out/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/X735542/Projects/DevopsPractice/Library/obj/Release/net7.0/PubTmp/Out/Npgsql.dll
+/Users/X735542/Projects/DevopsPractice/Library/obj/Release/net7.0/PubTmp/Out/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/X735542/Projects/DevopsPractice/Library/obj/Release/net7.0/PubTmp/Out/Library.deps.json
